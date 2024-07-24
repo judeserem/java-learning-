@@ -18,10 +18,10 @@ public class Animal {
     // Main method to test the class
     public static void main(String[] args) {
         // Create an instance of Animal
-        Animal lion = new Animal("Lion", 190.5);
+        Animal ne = new Animal("Lion", 190.5);
         
         // Call the method to display the information
-        lion.displayInfo();
+        ne.displayInfo();
     }
 }
 
